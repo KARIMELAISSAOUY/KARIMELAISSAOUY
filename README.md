@@ -21,13 +21,14 @@ I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
+<br/>
 
 
 <div align="center">
-<img src="" /> 
+  <h1>Code 👨‍💻 + Design ✨ = 💝</h1>
 </div>
 
-
+<br/>
 
 <div align="center">
 <img src="https://mir-s3-cdn-cf.behance.net/f756ee916ad279a5f5e00ef88877cec4/2e43f5e8-c0ca-408e-8c2f-484903d6f462_rwc_64x0x2933x410x3200.png?h=eefcb49ee1ed3e41866c6eb7218f9f7d" /> 
@@ -37,6 +38,29 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 <h3 align="center">●𝙄'𝙢 𝘼𝘽𝘿𝙀𝙇𝙆𝘼𝙍𝙄𝙈 , 𝘼 ✦| 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐫𝐚𝐩𝐡𝐢𝐜 𝕯𝖊𝖘𝖎𝖌𝖓𝖊𝖗 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙒𝙚𝙗 𝕯𝙚𝙨𝙞𝙜𝙣𝙚𝙧 | 𝙋𝐫𝐨𝐠𝐫𝐚𝐦𝐞𝐫 | ＵＩ＆ＵＸ | ✦ ✎ 𝙆𝙍𝙈</h3> 
 <a href="#"><img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" height="auto"/></a>
 
+### Languages and Tools:
+
+
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+### Softwares:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
+
+<br />
+<br />
 ## 📌 My Skill Set
 
 <table><tr><td valign="top" >
