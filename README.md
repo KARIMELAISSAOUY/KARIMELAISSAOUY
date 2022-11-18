@@ -1,6 +1,38 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F7C118&center=true&vCenter=true&width=435&lines=I'm+;%F0%9F%85%B0%F0%9F%85%B1%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%BA%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%B8%F0%9F%85%BC+%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%B0%F0%9F%85%B8%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B0%F0%9F%85%BE%F0%9F%86%84%F0%9F%86%88;A;Full+Stack+Developer;Web+designer+%26+developer;UI+%26+Ux+designer;Graphic+Designer;I'm+From+Morocco">
+</div>
+
+
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/karimelaissaouy/count.svg" />
+</p>
+
+## About me
+
+I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+
+I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+
+
+
+<div align="center">
 <img src="" /> 
 </div>
+
+
+
+<div align="center">
+<img src="https://mir-s3-cdn-cf.behance.net/f756ee916ad279a5f5e00ef88877cec4/2e43f5e8-c0ca-408e-8c2f-484903d6f462_rwc_64x0x2933x410x3200.png?h=eefcb49ee1ed3e41866c6eb7218f9f7d" /> 
+</div>
+
+<h1 align="center">Hi 👋, I'm 🅰🅱🅳🅴🅻🅺🅰🆁🅸🅼 🅴🅻🅰🅸🆂🆂🅰🅾🆄🆈</h1>
+<h3 align="center">●𝙄'𝙢 𝘼𝘽𝘿𝙀𝙇𝙆𝘼𝙍𝙄𝙈 , 𝘼 ✦| 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐫𝐚𝐩𝐡𝐢𝐜 𝕯𝖊𝖘𝖎𝖌𝖓𝖊𝖗 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙒𝙚𝙗 𝕯𝙚𝙨𝙞𝙜𝙣𝙚𝙧 | 𝙋𝐫𝐨𝐠𝐫𝐚𝐦𝐞𝐫 | ＵＩ＆ＵＸ | ✦ ✎ 𝙆𝙍𝙈</h3> 
+<a href="#"><img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" height="auto"/></a>
 
 ## 📌 My Skill Set
 
@@ -89,15 +121,6 @@
 </div> 
 </td></tr></table>  
 
-
-
-<div align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/f756ee916ad279a5f5e00ef88877cec4/2e43f5e8-c0ca-408e-8c2f-484903d6f462_rwc_64x0x2933x410x3200.png?h=eefcb49ee1ed3e41866c6eb7218f9f7d" /> 
-</div>
-
-<h1 align="center">Hi 👋, I'm 🅰🅱🅳🅴🅻🅺🅰🆁🅸🅼 🅴🅻🅰🅸🆂🆂🅰🅾🆄🆈</h1>
-<h3 align="center">●𝙄'𝙢 𝘼𝘽𝘿𝙀𝙇𝙆𝘼𝙍𝙄𝙈 , 𝘼 ✦| 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐫𝐚𝐩𝐡𝐢𝐜 𝕯𝖊𝖘𝖎𝖌𝖓𝖊𝖗 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙒𝙚𝙗 𝕯𝙚𝙨𝙞𝙜𝙣𝙚𝙧 | 𝙋𝐫𝐨𝐠𝐫𝐚𝐦𝐞𝐫 | ＵＩ＆ＵＸ | ✦ ✎ 𝙆𝙍𝙈</h3> 
-<a href="#"><img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" height="auto"/></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7CB24&center=true&vCenter=true&width=500&height=100&lines=I+LOVE+CODING++;CODING+IS+LIFE+;CODING++is+difficult%3F;only+then+it+is+fun+to+do%2C;You+just+have+to+;set+your+standards%2C;If+it+were+to+be+easy%2C;would+anyone+do+it%3F" alt="Typing SVG" /></a>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7CB24&center=true&vCenter=true&width=500&height=100&lines=I'm+a;Full+Stack+Developer+;Programmer;UI+%26+UX+Designer;Graphic+Designer" alt="Typing SVG" /></a></h1>
