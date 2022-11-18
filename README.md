@@ -1,8 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F7C118&center=true&vCenter=true&width=435&lines=I'm+;%F0%9F%85%B0%F0%9F%85%B1%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%BA%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%B8%F0%9F%85%BC+%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%B0%F0%9F%85%B8%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B0%F0%9F%85%BE%F0%9F%86%84%F0%9F%86%88;A;Full+Stack+Developer;Web+designer+%26+developer;UI+%26+Ux+designer;Graphic+Designer;I'm+From+Morocco">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7C118&center=true&vCenter=true&width=435&lines=I'm+%F0%9F%91%8B+;%F0%9F%85%B0%F0%9F%85%B1%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%BA%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%B8%F0%9F%85%BC+%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%B0%F0%9F%85%B8%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B0%F0%9F%85%BE%F0%9F%86%84%F0%9F%86%88;A;Full+Stack+Developer;Web+designer+%26+developer;UI+%26+Ux+designer;Graphic+Designer;I'm+From+Morocco">
 </div>
-
-
+</br>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0F6C00&center=true&vCenter=true&width=435&lines=Print(%22Hello+World+!%22);Printf+(%22Hello+World+!%22);std%3A%3Acout+%3C%3C+%22Hello+World%22;disp('Hello+World');System.Console.WriteLine(%22Hello%22);puts+'Hello+World';WriteLn('Hello+World');cat('Hello+World');echo+%22Hello+World%22;+System.out.println(%22Hello+World%22);console.log(%22Hello+World%22)">
+</div>
+</br>
 # Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
