@@ -40,10 +40,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 ## About me
-
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+● Hi ,My name is ABDEL𝗞ARIM , 𝗜'𝗺 Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 , 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗮𝗻𝗱 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲, 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 . 
+I've loved ♥ programming since I was a kid and it's always been my dream to get better forever and ever and I have the ability to solve problems.
+▍ 𝗜'𝗺 an experienced Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with more than +4 years of practical experience in designing, developing and implementing different websites using various programming techniques and languages and 𝗜'𝗺 still learning more and more. I always seek to benefit from extensive development experience and hands-on technical expertise in a challenging role as a Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 for this. I am always aware of the newness of this world because it's part of my life. ▍
 
 <br/>
 
@@ -68,21 +67,26 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377
+Full Name: ABDELKARIM ELAISSAOUY
+Location: Morocco, MA
+Frameworks: Angular , Vue js , Three js, Node Js , Django , Express , Bootstrap , ASP , LARAVEL 
+Languages: JavaScript, TypeScript, Java
+           HTML, CSS , PYTHON , C&C++ , PHP ,
+Learning: Node.js, Express, MYSQL, Git, Github,   
+          Three.js, LARAVEL , POO , Design , 3DMax
+Hobbies: Coding , Football , Gaming , Design 
+My Personality Traits : 
+1 - Problem Solver : 
+I enjoy finding solutions to problems, both big and small.I always looking for ways to improve things and make them work better.
+2 - I'm a Good Communicator : 
+I know how to communicate clearly and effectively, both in writing and in person. I'm able to explain complex technical concepts to non-technical people.
+3 - I'm Resourceful :
+I'm good at finding the resources who I need  , whether it's information, people, or tools. I'm not afraid to ask for help when I  need it.
+4 - I'm Organized :
+I'm able to keep track of multiple projects and deadlines.I have a system for organizing my work so that I can always find what I need when I need it. 
+5 - 
 ```
 <p align="left">
   
