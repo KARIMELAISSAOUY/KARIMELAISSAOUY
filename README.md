@@ -140,7 +140,7 @@ I have the real personality traits & qualities that can help  me succeed as a Fu
 </p>
 
 
-
+<a href="https://www.linkedin.com/Karimelaissaouy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0F6C00&center=true&vCenter=true&width=435&lines=As+a+Full+Stack+D%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%2C;I+have+learned+these;things+in+my+career+%3A;1+-+Creativity;2+-+Strategic+planning;3+-+Analytical+skills;4+-+Problem-solving;5+-+Time+management+skills" alt="karim" /></a>
 
 
 
