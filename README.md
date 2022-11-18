@@ -1,4 +1,100 @@
-![logo](https://mir-s3-cdn-cf.behance.net/f756ee916ad279a5f5e00ef88877cec4/2e43f5e8-c0ca-408e-8c2f-484903d6f462_rwc_64x0x2933x410x3200.png?h=eefcb49ee1ed3e41866c6eb7218f9f7d)
+<div align="center">
+<img src="" /> 
+</div>
+
+## 📌 My Skill Set
+
+<table><tr><td valign="top" >
+
+### Frontend
+
+<div > 
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> 
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> &nbsp;
+ <img width="65px" 
+    height="65px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"> &nbsp; &nbsp;
+<img width="80px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> &nbsp;
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"> &nbsp;
+<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="65" /></a>  
+ <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" /></a> &nbsp;
+ <img  
+    height="60px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> &nbsp;
+
+</div>
+
+</td><td valign="top" >
+
+
+
+
+### Backend
+
+<div  >  
+
+    
+
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="65" /></a> &nbsp;
+<img
+    height="65px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp;
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /> &nbsp;
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a> &nbsp;
+<img 
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"> &nbsp;
+<img width="60px" 
+    height="70px" 
+    style="margin: 10px"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> &nbsp; &nbsp;
+<img width="180px"
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> &nbsp;
+<img width="80px"
+    height="70px" 
+    style="margin: 10px"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"> &nbsp; &nbsp;
+<img  
+    height="60px" 
+    style="margin: 10px"
+    src="https://railway.app/brand/logo-dark.svg"> &nbsp;
+<!-- <img  
+    height="65px" 
+    style="margin: 10px"
+    src="https://profilinator.rishav.dev/skills-assets/python-original.svg"> &nbsp; 
+<img  
+    height="65px" 
+    style="margin: 10px" src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667"> &nbsp; -->
+  
+
+    
+</div> 
+</td></tr></table>  
+
+
+
+<div align="center">
+<img src="https://mir-s3-cdn-cf.behance.net/f756ee916ad279a5f5e00ef88877cec4/2e43f5e8-c0ca-408e-8c2f-484903d6f462_rwc_64x0x2933x410x3200.png?h=eefcb49ee1ed3e41866c6eb7218f9f7d" /> 
+</div>
+
 <h1 align="center">Hi 👋, I'm 🅰🅱🅳🅴🅻🅺🅰🆁🅸🅼 🅴🅻🅰🅸🆂🆂🅰🅾🆄🆈</h1>
 <h3 align="center">●𝙄'𝙢 𝘼𝘽𝘿𝙀𝙇𝙆𝘼𝙍𝙄𝙈 , 𝘼 ✦| 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐫𝐚𝐩𝐡𝐢𝐜 𝕯𝖊𝖘𝖎𝖌𝖓𝖊𝖗 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙒𝙚𝙗 𝕯𝙚𝙨𝙞𝙜𝙣𝙚𝙧 | 𝙋𝐫𝐨𝐠𝐫𝐚𝐦𝐞𝐫 | ＵＩ＆ＵＸ | ✦ ✎ 𝙆𝙍𝙈</h3> 
 <a href="#"><img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" height="auto"/></a>
