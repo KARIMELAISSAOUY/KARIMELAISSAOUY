@@ -1,6 +1,23 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7C118&center=true&vCenter=true&width=435&lines=I'm+%F0%9F%91%8B+;%F0%9F%85%B0%F0%9F%85%B1%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%BA%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%B8%F0%9F%85%BC+%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%B0%F0%9F%85%B8%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B0%F0%9F%85%BE%F0%9F%86%84%F0%9F%86%88;A;Full+Stack+Developer;Web+designer+%26+developer;UI+%26+Ux+designer;Graphic+Designer;I'm+From+Morocco">
 </div>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
+<br>
+  
+<div align="center">
+
+  
+</div>
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
 </br>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0F6C00&center=true&vCenter=true&width=435&lines=Print(%22Hello+World+!%22);Printf+(%22Hello+World+!%22);std%3A%3Acout+%3C%3C+%22Hello+World%22;disp('Hello+World');System.Console.WriteLine(%22Hello%22);puts+'Hello+World';WriteLn('Hello+World');cat('Hello+World');echo+%22Hello+World%22;+System.out.println(%22Hello+World%22);console.log(%22Hello+World%22)">
@@ -9,16 +26,20 @@
 
 
 <h2 align="center"> 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+ Hi,<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 </h2>
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/karimelaissaouy/count.svg" />
 </p>
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 ## About me
 
 I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
