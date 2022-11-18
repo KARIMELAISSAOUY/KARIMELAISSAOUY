@@ -65,7 +65,7 @@ I've loved ♥ programming since I was a kid and it's always been my dream to ge
 </br></br>
 
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="390" /> 
+<img align="left" src="https://h.top4top.io/p_2513gsatr1.gif" alt="Karim" width="390" height="635"  /> 
 
 ```csharp
 Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
@@ -141,6 +141,50 @@ I have the real personality traits & qualities that can help  me succeed as a Fu
 
 
 <a href="https://www.linkedin.com/Karimelaissaouy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0F6C00&center=true&vCenter=true&width=435&lines=As+a+Full+Stack+D%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%2C;I+have+learned+these;things+in+my+career+%3A;1+-+Creativity;2+-+Strategic+planning;3+-+Analytical+skills;4+-+Problem-solving;5+-+Time+management+skills" alt="karim" /></a>
+
+
+
+<h2 align="center">Welcome 👋, In My Profil </h1>
+
+
+```js
+
+document.write("Hello World I'm ABDELKARIM I love Coding ❤️");
+
+var status = 
+{ 
+  learning : [Node.js, Express, MYSQL, Git, Github,   
+          Three.js, LARAVEL , POO , Design , 3DMax],
+  interests: [Software Engineer,Cyber security,IT,Research, Open Source Contribution]
+}
+
+const skills = 
+{
+  languages :[C, C++, Python, PHP, Java, Javascript, Ruby ... ],
+  
+  frameworks:[ReactJs, Flutter, Flask, Laravel , Django, ExpressJs],
+  
+  databases :[Sqlite3, MySql, PostgreSQL, Firebase],
+  
+  platforms :[GCP, AWS, Firebase .... ],
+  
+  MyFavorite languages  :[Java , Python , C ]
+}
+
+
+Developer dev = new Developer(ABDELKARIM ELAISSAOUY);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.codingIsLife();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+
+```
 
 
 
