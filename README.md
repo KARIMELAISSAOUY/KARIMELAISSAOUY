@@ -6,7 +6,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0F6C00&center=true&vCenter=true&width=435&lines=Print(%22Hello+World+!%22);Printf+(%22Hello+World+!%22);std%3A%3Acout+%3C%3C+%22Hello+World%22;disp('Hello+World');System.Console.WriteLine(%22Hello%22);puts+'Hello+World';WriteLn('Hello+World');cat('Hello+World');echo+%22Hello+World%22;+System.out.println(%22Hello+World%22);console.log(%22Hello+World%22)">
 </div>
 </br>
-# Hey there :wave:
+
+
+<h2 align="center"> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+</h2>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
