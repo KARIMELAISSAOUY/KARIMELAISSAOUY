@@ -207,7 +207,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
 
-<p align="left"> <a href="https://www.facebook.com/hemraj.dhakal.357/" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="Hemraj183" /></a> <a href="https://drive.google.com/file/d/10PSImCCs1jK58jqrJwb2MKoPokSVqiqZ/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Hemraj183" /></a> </p>
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="karim" /></a> <a href="#" target="blank"><img src="#" alt="Hemraj183" /></a> </p>
 
 - 🔭 I’m currently working on machine learning, computer vision and deep learning projects.
 - 🌱 I’m currently learning deep learning and Natural Language Processing.
@@ -218,10 +218,10 @@ while(dev.isCoding() && dev.isStuck())
 - ⚡ Fun fact: You may get AI girlfriend by the 2030😀😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
-<a href="https://www.instagram.com/hemraj1267" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="Hemraj183" /></a>
-<a href="https://www.hackerrank.com/hemrajdhakal_ml" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hemraj183" /></a>
-<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a></p>
+<a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/hemraj1267" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/hemrajdhakal_ml" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  /></a>
+<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
