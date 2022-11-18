@@ -40,6 +40,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 ## About me
+  <br/><br/>
 ● Hi ,My name is ABDEL𝗞ARIM , 𝗜'𝗺 Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 , 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗮𝗻𝗱 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲, 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 . 
 I've loved ♥ programming since I was a kid and it's always been my dream to get better forever and ever and I have the ability to solve problems.
 ▍ 𝗜'𝗺 an experienced Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with more than +4 years of practical experience in designing, developing and implementing different websites using various programming techniques and languages and 𝗜'𝗺 still learning more and more. I always seek to benefit from extensive development experience and hands-on technical expertise in a challenging role as a Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 for this. I am always aware of the newness of this world because it's part of my life. ▍
@@ -64,7 +65,7 @@ I've loved ♥ programming since I was a kid and it's always been my dream to ge
 </br></br>
 
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="390" /> 
 
 ```csharp
 Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
@@ -79,17 +80,63 @@ Learning: Node.js, Express, MYSQL, Git, Github,
 Hobbies: Coding , Football , Gaming , Design 
 My Personality Traits : 
 1 - Problem Solver : 
-I enjoy finding solutions to problems, both big and small.I always looking for ways to improve things and make them work better.
+🔹I enjoy finding solutions to problems, both big and small.I always looking for ways to improve things and make them work better.
 2 - I'm a Good Communicator : 
-I know how to communicate clearly and effectively, both in writing and in person. I'm able to explain complex technical concepts to non-technical people.
+🔹I know how to communicate clearly and effectively, both in writing and in person. I'm able to explain complex technical concepts to non-technical people.
 3 - I'm Resourceful :
-I'm good at finding the resources who I need  , whether it's information, people, or tools. I'm not afraid to ask for help when I  need it.
+🔹I'm good at finding the resources who I need  , whether it's information, people, or tools. I'm not afraid to ask for help when I  need it.
 4 - I'm Organized :
-I'm able to keep track of multiple projects and deadlines.I have a system for organizing my work so that I can always find what I need when I need it. 
-5 - 
+🔹I'm able to keep track of multiple projects and deadlines.I have a system for organizing my work so that I can always find what I need when I need it. 
+5 - I'm Flexible :
+🔹I'm willing to change My plans when necessary. I know that sometimes the best solution is the one that wasn't originally planned.
+6 - I'm a Lifelong Learner  :
+🔹I love Coding So I'm always learning new things, whether it's a new programming language or a new way to solve a problem.I'm not afraid of change, and I'm always looking for ways to improve My skills 
+🔹I love this Quote "Life = Coding Forever"
+7 - I'm a Team leader :
+🔹I know that there's strength in numbers. I'm able to work well with others, and I'm always looking for ways to help the team succeed,
+🔹I have a team spirit and I love cooperation because one of the secrets of success is the success of the group.
+8 -  I'm Positive Person :
+🔹I have a positive attitude, even when things are tough. I believe that anything is possible with enough hard work and determination.
+🔹I have the real personality traits & qualities that can help  me succeed as a Full Stack developer , then I'm well on My way to becoming a successful developer.
+
 ```
 <p align="left">
-  
+  My Personality Traits : 
+  </br></br>
+🔹1 - Problem Solver : 
+  </br>
+I enjoy finding solutions to problems, both big and small.I always looking for ways to improve things and make them work better.
+  </br>
+🔹2 - I'm a Good Communicator : 
+</br>
+I know how to communicate clearly and effectively, both in writing and in person. I'm able to explain complex technical concepts to non-technical people.
+</br>
+🔹3 - I'm Resourceful :
+</br>
+I'm good at finding the resources who I need  , whether it's information, people, or tools. I'm not afraid to ask for help when I  need it.
+</br>
+🔹4 - I'm Organized :
+</br>
+I'm able to keep track of multiple projects and deadlines.I have a system for organizing my work so that I can always find what I need when I need it. 
+</br>
+🔹5 - I'm Flexible :
+</br>
+I'm willing to change My plans when necessary. I know that sometimes the best solution is the one that wasn't originally planned.
+</br>
+🔹6 - I'm a Lifelong Learner  :
+</br>
+I love Coding So I'm always learning new things, whether it's a new programming language or a new way to solve a problem.I'm not afraid of change, and I'm always looking for ways to improve My skills 
+I love this Quote "Life = Coding Forever"
+</br>
+🔹7 - I'm a Team leader :
+I know that there's strength in numbers. I'm able to work well with others, and I'm always looking for ways to help the team succeed,
+I have a team spirit and I love cooperation because one of the secrets of success is the success of the group.
+</br>
+🔹8 - I'm Positive Person :
+</br>
+I have a positive attitude, even when things are tough. I believe that anything is possible with enough hard work and determination.
+I have the real personality traits & qualities that can help  me succeed as a Full Stack developer , then I'm well on My way to becoming a successful developer.
+</br>
 </p>
 
 
