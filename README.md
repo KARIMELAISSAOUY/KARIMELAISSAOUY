@@ -187,7 +187,9 @@ while(dev.isCoding() && dev.isStuck())
 
 ```
 </br>
-
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+</p></br>
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
 </br>
@@ -301,17 +303,34 @@ while(dev.isCoding() && dev.isStuck())
 
 
 </br></br></br>
-<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
+<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="355" />
 
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="karim" /></a> <a href="#" target="blank"><img src="#" alt="Hemraj183" /></a> </p>
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="karim" /></a> <a href="#" target="blank"><img src="#" alt="KARIM" /></a> </p>
 
-- 🔭 I’m currently working on machine learning, computer vision and deep learning projects.
-- 🌱 I’m currently learning deep learning and machine learning.
-- 👯 I’m looking to collaborate on AI projects and AI research.
-- 🤔 I’m looking for help with my Deep Learning research.
-- 💬 Ask me about machine learning, OpenCV or deep learning.
+➡️ I am very excited about everything related to the world of the web and new technologies.
+</br>
+➡️ I am always trying to develop and learn new skills.
+</br>
+➡️ Thanks to my various experiences and continuous learning, I was able to develop my skills in:
+</br>
+✓ Website Development
+</br>
+✓ Desktop Application Development
+</br>
+✓ Mobile App Development
+</br>
+➡️ I have also developed interpersonal skills like:
+</br>
+Great ability to learn fast
+</br>
+Great adaptability
+</br>
+Problem solving skill
+</br>
+And I'm still learning day by day
 - 📫 How to reach me: karimelaissaouy1@gmail.com
 - ⚡ Fun fact: You may get AI girlfriend by the 2030😀😅
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karimelaissaouy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -518,3 +537,26 @@ while(dev.isCoding() && dev.isStuck())
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimelaissaouy&show_icons=true&locale=en" alt="karimelaissaouy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimelaissaouy&" alt="karimelaissaouy" /></p>
+  
+  <a href="#">
+  <img alt="Detective Conan" src="https://mrepol742-gif-randomizer.vercel.app/api/#2" /> 
+  </a> 
+<br>
+  ## ❤ Follow Me 
+  
+<br> 
+  <p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
+  </p>
+<br>
+<h2 align='left'>Thank You ❤</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>	
+ 
+<br>
+  
+ <!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%"> 
+  
+  
