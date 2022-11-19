@@ -563,7 +563,7 @@ And I'm still learning day by day
   
 <!-- PROJECTS -->
 
-<h3 align="left">Projects</h3>
+<!--<h3 align="left">Projects</h3>
 <div align="center">
 	<table>
 		<tr>
@@ -654,4 +654,5 @@ And I'm still learning day by day
 	</table>
 </div>
 <br />
-
+-->
+	
