@@ -66,7 +66,7 @@ I've loved ♥ programming since I was a kid and it's always been my dream to ge
 </br></br>
 
 
-<img align="left" src="https://h.top4top.io/p_2513gsatr1.gif" alt="Karim" width="390" height="635"  /> 
+<img align="left" src="https://h.top4top.io/p_2513gsatr1.gif" alt="Karim" width="390" height="630"  /> 
 
 ```csharp
 Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
@@ -101,6 +101,7 @@ My Personality Traits :
 🔹I have the real personality traits & qualities that can help  me succeed as a Full Stack developer , then I'm well on My way to becoming a successful developer.
 
 ```
+ </br></br>
 <p align="left">
   My Personality Traits : 
   </br></br>
