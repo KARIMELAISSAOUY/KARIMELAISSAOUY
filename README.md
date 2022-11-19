@@ -201,27 +201,123 @@ while(dev.isCoding() && dev.isStuck())
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
+</br></br></br>
+
+
+
+<img align="left" src="https://a.top4top.io/p_2514dd0gx1.gif" height="230px"/>
+
+```csharp
+    عبد الكريم العيساوي  -  ABDELKARIM ELAISSAOUY
+    ------------------------------------------
+    Name: ABDELKARIM
+    Lastname: ELAISSAOUY
+    Nickname: KARIM
+    Gender: Male
+    Age: 22
+    Hobbies: ["DESIGN"], ["Coding"], ["Gaming"], ["FOOTBALL"]
+    Languages: ["ARABIC"], ["FRENCH"], ["ENGLISH"]
+    native land: Morocco
+```
+
+<br>
+
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="https://c.top4top.io/p_2514w08f12.png" width="65px"/>
+                <br /> C & C++
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://h.top4top.io/p_2514q5k8q3.png" width="65px"/>
+                <br /> Java
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://g.top4top.io/p_2514qzl7d2.png" width="65px"/>
+                <br /> Javascript
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="https://f.top4top.io/p_2514mh7401.png" width="65px"/>
+                <br /> PHP
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://g.top4top.io/p_2514wjcuz1.png" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://b.top4top.io/p_2514eyulu1.png" width="65px"/>
+                <br /> React 
+            </td>
+        </tr>
+    </table>
+    <br><br>
+    <img src="https://raw.githubusercontent.com/L0um15/L0um15/cb872b0f3694efd47f5026166f0e14e3a19c9d4a/svg/artificialintelligence.svg" height="235px"/>
+</div>
+
+<br>
+
+
+<br><br>
+<img align="left" src="https://h.top4top.io/p_25143pt1b1.png" height="277px"/>
+
+```csharp
+    System Information
+    ------------------------------------------
+    OS: Windows 10 Pro 
+    Kernel: 21H1 
+    WM: Windows Explorer
+    Shell: powershell
+    Terminal: XD
+    Resolution: 2K 144HZ
+    Theme: Dark
+    CPU: Intel Core I7 12700K 
+    GPU: Nvidia  GeForce RTX® 3060 
+    Memory:  16GB  3600 MHz
+```
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</br></br></br>
 <img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
 
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="karim" /></a> <a href="#" target="blank"><img src="#" alt="Hemraj183" /></a> </p>
 
 - 🔭 I’m currently working on machine learning, computer vision and deep learning projects.
-- 🌱 I’m currently learning deep learning and Natural Language Processing.
+- 🌱 I’m currently learning deep learning and machine learning.
 - 👯 I’m looking to collaborate on AI projects and AI research.
 - 🤔 I’m looking for help with my Deep Learning research.
 - 💬 Ask me about machine learning, OpenCV or deep learning.
-- 📫 How to reach me: hemrajdhakal.ml@gmail.com
+- 📫 How to reach me: karimelaissaouy1@gmail.com
 - ⚡ Fun fact: You may get AI girlfriend by the 2030😀😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/hemraj1267" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/hemrajdhakal_ml" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  /></a>
-<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a></p>
+<a href="https://www.linkedin.com/in/karimelaissaouy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/karim_ely1" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karimelaissaouy" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  /></a>
+<a href="mailto:karimelaissaouy1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
