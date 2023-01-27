@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7C118&center=true&vCenter=true&width=435&lines=I'm+%F0%9F%91%8B+;%F0%9F%85%B0%F0%9F%85%B1%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%BA%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%B8%F0%9F%85%BC+%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%B0%F0%9F%85%B8%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B0%F0%9F%85%BE%F0%9F%86%84%F0%9F%86%88;A;Full+Stack+Developer;Web+designer+%26+developer;UI+%26+Ux+designer;Graphic+Designer;I'm+From+Morocco">
-</div>
+<center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F7C118&center=true&vCenter=true&width=435&lines=I'm+%F0%9F%91%8B;ABDELKARIM+ELAISSAOUY;A;Full+Stack+Developer;Web+Designer+%26+Developer;DEV+%2F+PROGRAMER;UI+%2F+UX+DESIGNER;GRAPHIC+DESIGNER;I'M+FROM;MOROCCO;(%C2%B4%E2%80%A2%E2%80%BF%E2%80%A2%60)+" alt="Typing SVG"/>
+</div></center>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
