@@ -66,14 +66,14 @@ I've loved ♥ programming since I was a kid and it's always been my dream to ge
 </br></br>
 
 
-<img align="left" src="https://h.top4top.io/p_2513gsatr1.gif" alt="Karim" width="390" height="630"  /> 
+<img align="left" src="https://k.top4top.io/p_2808v2aad1.gif" alt="Karim" width="390" height="630"  /> 
 
 ```csharp
 Full Stack D𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 -------------------------
 Full Name: ABDELKARIM ELAISSAOUY
 Location: Morocco, MA
-Frameworks: Angular , Vue js , Three js, Node Js , Django , Express , Bootstrap , ASP , LARAVEL 
+Frameworks: Angular , Vue js , Three js, Node Js , Django , Express , Bootstrap , Next js ,  ASP , LARAVEL 
 Languages: JavaScript, TypeScript, Java
            HTML, CSS , PYTHON , C&C++ , PHP ,
 Learning: Node.js, Express, MYSQL, Git, Github,   
@@ -233,11 +233,11 @@ while(dev.isCoding() && dev.isStuck())
                 <br /> C & C++
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://h.top4top.io/p_2514q5k8q3.png" width="65px"/>
+                <img src="https://f.top4top.io/p_28087f9cp2.png" width="65px"/>
                 <br /> Java
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://g.top4top.io/p_2514qzl7d2.png" width="65px"/>
+                <img src="https://k.top4top.io/p_2808dl4871.png" width="65px"/>
                 <br /> Javascript
             </td>
         </tr>
@@ -247,7 +247,7 @@ while(dev.isCoding() && dev.isStuck())
                 <br /> PHP
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://g.top4top.io/p_2514wjcuz1.png" width="65px"/>
+                <img src="https://l.top4top.io/p_2808a6dej2.png" width="65px"/>
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
@@ -264,7 +264,7 @@ while(dev.isCoding() && dev.isStuck())
 
 
 <br><br>
-<img align="left" src="https://h.top4top.io/p_25143pt1b1.png" height="277px"/>
+<img align="left" src="https://images4.alphacoders.com/130/1307940.png" height="277px"/>
 
 ```csharp
     System Information
